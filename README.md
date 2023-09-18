@@ -35,8 +35,8 @@ Strikethrough uses two tildes. ~~Serateh this~~.
    2. 2nd
 4. And another item.
    * note 1
-   * note2
-   *  * not2-1
+   * note 2
+   * note 3
 ---
 Colons can be used to align columns.
 |Tables | Are | Cool|
