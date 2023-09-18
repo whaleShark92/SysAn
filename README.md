@@ -22,19 +22,19 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-Emphasis, aka *italics*, with *asterisks* or *underscores*.
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-Combined emphasis with **asterisks and underscores**.
-Strikethrough uses two tildes. ~~Serateh this~~.
+>Emphasis, aka *italics*, with *asterisks* or *underscores*.
+>Strong emphasis, aka bold, with **asterisks** or **underscores**.
+>Combined emphasis with **asterisks and underscores**.
+>Strikethrough uses two tildes. ~~Serateh this~~.
 
 1. First ordered list item
 2. Another item
-  * Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-4. And another item.
-   * note 1
-   * note 2
-   * note 3
+* Unordered sub-list.
+4. Actual numbers don't matter, just that it's a number
+5. And another item.
+ * note 1
+ * note 2
+ * note 3
 ---
 Colons can be used to align columns.
 |Tables | Are | Cool|
