@@ -1,5 +1,5 @@
-###甘特圖
-
+###
+甘特圖
 ```mermaid
 gantt
     title HW2
@@ -18,8 +18,8 @@ gantt
 
 ```
 
-###PERT圖
-
+###
+PERT圖
 ```graphviz
 digraph {
 	node[shape=record];
