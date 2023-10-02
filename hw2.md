@@ -5,7 +5,7 @@ gantt
     title HW2
 
 	section 測試任務
-	研擬計畫 : a1,1d
+	研擬計畫 : a1, 2023-10-02, 1d
 	任務分配 : a2, after a1, 4d
 	取得硬體 : a3, after a1, 17d
 	程式開發 : a4, after a2, 70d
