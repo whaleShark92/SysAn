@@ -14,7 +14,7 @@ gantt
     	系統測試      : des9,after des6, 25d
     	使用者訓練    : des10,after des7 des8, 20d
     	使用者測試    : des11,after des9 des10, 25d
-
+```
 ###
 PERT圖
 ```graphviz
