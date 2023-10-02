@@ -3,7 +3,7 @@
 ```
 gantt
     title HW2
-    	研擬計畫      : al,1d
+    	研擬計畫      : a1,1d
     	任務分配      : des2,after des1, 4d
     	取得硬體      : des3,after des1, 17d
     	程式開發      : des4,after des2, 70d
